@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/AbstractFactory/AbstractFactory.iml" filepath="$PROJECT_DIR$/DesignPatterns/AbstractFactory/AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/DesignPatterns/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/DesignPatterns/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/Builder/Builder.iml" filepath="$PROJECT_DIR$/DesignPatterns/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/DesignPatterns/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Dip/Dip.iml" filepath="$PROJECT_DIR$/SOLID/Dip/Dip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/DesignPatterns/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Isp/Isp.iml" filepath="$PROJECT_DIR$/SOLID/Isp/Isp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Lsp/Lsp.iml" filepath="$PROJECT_DIR$/SOLID/Lsp/Lsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID/Ocp/Ocp.iml" filepath="$PROJECT_DIR$/SOLID/Ocp/Ocp.iml" />
+    </modules>
+  </component>
+</project>
